@@ -1,0 +1,14 @@
+{"courses": [
+    {
+        "courseName": "CPSC210",
+        "credits": 4,
+        "year": 1,
+        "semester": 2
+    },
+    {
+        "courseName": "CPSC121",
+        "credits": 4,
+        "year": 1,
+        "semester": 2
+    }
+]}

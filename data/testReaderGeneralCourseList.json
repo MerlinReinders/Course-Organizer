@@ -1,0 +1,14 @@
+{"courses": [
+  {
+    "courseName": "MATH100",
+    "credits": 3,
+    "year": 1,
+    "semester": 1
+  },
+  {
+    "courseName": "MATH101",
+    "credits": 3,
+    "year": 1,
+    "semester": 2
+  }
+]}
